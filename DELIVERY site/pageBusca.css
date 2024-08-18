@@ -1,0 +1,88 @@
+.body2{background-image: url(imgs/fundo\ busca.png);}
+
+header{
+    background-color: #EA1D2C;
+}
+nav{
+
+    height: 146px;
+}
+.nav{
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+    font-size: 52px;
+}
+aside{
+    display: flex;
+    flex-direction: row;
+    margin-left: 25%;
+    padding-bottom: 30px;
+}
+.ex{
+    border: solid 79px #811111cb;
+}
+footer{
+    background-image: url(imgs/bracafe\ 1\ \(2\).png);
+    height: 174px;
+}
+
+
+.precos1{
+display: flex;
+flex-direction: row;
+background-color: #811111c2;
+height: 62px;
+width: 100%;
+font-size: 52px;
+gap: 413px;
+text-align: center;
+color: white;
+}
+
+.pedir{
+width: 339px;
+background-color: #811111;
+color: white;
+}
+
+.bug{
+    opacity: 0;
+    width: 300px;
+}
+
+.bug2{
+    opacity: 0;
+    width: 376px;
+}
+
+.precos1{
+    padding-bottom: 30px;
+}
+.precos11{
+margin-right: 175px;
+}
+
+.precos12{
+  margin-left: 100x;
+}
+.pedir1{
+display: flex;
+flex-direction: row;
+height: 62px;
+width: 100%;
+font-size: 52px;
+text-align: center;
+color: white;
+gap: 342px;
+margin-top: 30px;
+}
+
+.pedir11{
+    background-color: #ea1d2bda;
+    width: 339px;
+}
+.pedir12{
+    background-color: #ea1d2bda;
+    width: 339px;
+}

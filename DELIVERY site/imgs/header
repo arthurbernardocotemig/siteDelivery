@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="global.css">
+    <link rel="stylesheet" href=".css">
+</head>
+<body>
+    
+    <header>
+        <div class="home"><img src="imgs/image 1.png" alt=""></div>
+        <div class="space"></div>
+        <div class="home">Pagina inicial</div>
+        <div class="home">Quem somos</div>
+        <div class="home">Busca</div>
+        <div class="home">Contate-nos</div>
+        <div class="home mpedidos">Meus pedidos</div>
+        <div class="home cadastro">cadastre-se</div>
+    </header>
+    <body>
+        
+        
+    </body>
